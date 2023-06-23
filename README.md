@@ -1,3 +1,3 @@
 # SiteLojadeJogos
 projeto senai
-https://erivelon.github.io/SiteLojadeJogos/
+https://erivelon.github.io/LojadeGames/
